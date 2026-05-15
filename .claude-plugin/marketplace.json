@@ -1,0 +1,29 @@
+{
+  "name": "carbocode-skills",
+  "description": "Carbocode skills for software modeling, architecture, and engineering workflows.",
+  "owner": {
+    "name": "Carbocode"
+  },
+  "plugins": [
+    {
+      "name": "uml-modeling",
+      "description": "UML modeling skill for designing, critiquing, and revising software and system diagrams with semantic rigor.",
+      "source": "./",
+      "homepage": "https://github.com/Carbocode/agent-skills",
+      "repository": "https://github.com/Carbocode/agent-skills",
+      "license": "Apache-2.0",
+      "keywords": [
+        "uml",
+        "modeling",
+        "software-design",
+        "architecture",
+        "diagrams"
+      ],
+      "category": "developer-tools",
+      "strict": true,
+      "skills": [
+        "./skills/uml-modeling"
+      ]
+    }
+  ]
+}
