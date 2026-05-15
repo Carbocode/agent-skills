@@ -1,6 +1,6 @@
 # Skills for Software Engineers
 
-[![skills.sh](https://skills.sh/b/Carbocode/skills)](https://skills.sh/Carbocode/skills)
+[![skills.sh](https://skills.sh/b/Carbocode/agent-skills)](https://skills.sh/Carbocode/agent-skills)
 
 These are the skills I use in my day-to-day work to design software and document it with rigor, clarity, and craft.
 
